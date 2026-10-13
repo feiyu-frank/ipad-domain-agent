@@ -122,7 +122,8 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>💬 微信二维码</b><br><br>（此处放二维码图片）</td>
+      <td align="center"><b>💬 微信二维码</b><br><br>（<img width="548" height="811" alt="aaf32640a142ede4839da54eaddcf400" src="https://github.com/user-attachments/assets/757b62d2-1ff6-4765-b15b-968ed141bda4" />
+）</td>
     </tr>
   </table>
 </div>
